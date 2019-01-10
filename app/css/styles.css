@@ -427,7 +427,7 @@ header {
 
 
 }
-.forms >input {
+.forms >input::placeholder {
     height: 250px;
     width: 1467px;
     text-indent: 20px;
