@@ -17,6 +17,7 @@ header {
     justify-content: space-around;
     align-items: flex-start;
     padding: 40px 0;
+    border-bottom: 1px solid white;
 
 }
 .navbar-items {
@@ -24,8 +25,7 @@ header {
     padding: 0;
     justify-content: space-between;
     width: 40%;
-    border-bottom: 1px solid white;
-    border-bottom-width:
+    /*border-bottom-width:;*/
 }
 .navbar-items a{
     float: left;
@@ -41,14 +41,14 @@ header {
     border-bottom: 3px solid blue;
 }
 {
-    background-image: url("../images/Line.png");
+    /*background-image: url("../images/Line.png");
     opacity: 0.7;
     position: absolute;
     left: 0px;
     top: 45px;
     width: 1600px;
     height: 2px;
-    z-index: 185;
+    z-index: 185;*/
 }
 .navbar-images {
     text-decoration: none;
@@ -56,7 +56,7 @@ header {
     justify-content: space-between;
     width: 7%;
     align-items: flex-start;
-    padding: 40px;
+    padding: 40px 0;
 }
 .navbar-images a:hover {
     opacity: 0.7;
@@ -471,4 +471,10 @@ footer {
     flex-direction: row;
     justify-content: space-around;
     color: white;
+}
+
+@media screen and (max-width: 1450px){
+    .navbar-items {
+        width: 56%;
+    }
 }
