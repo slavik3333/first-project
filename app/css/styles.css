@@ -1,4 +1,5 @@
 @import "../fonts/fonts.css";
+
 body {
     margin: 0;
     padding: 0;
@@ -10,15 +11,15 @@ header {
     background-repeat: no-repeat;
     background-position: center;
     height: 100vh;
-}
-.logo {
-
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 .header-top {
     display: flex;
+    flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    padding: 15px 0 0 0;
     border-bottom: 1px solid rgba(255, 255, 255, 0.5);
 
 }
@@ -28,17 +29,17 @@ header {
 .navbar-items {
     margin: 0;
     padding: 0;
-    justify-content: space-between;
+    display: flex;
 }
 .navbar-items li{
-    float: left;
     padding: 40px 22px;
     list-style: none;
     font-size: 24px;
-    border-bottom: 3px solid transparent;
+    border-bottom: 5px solid transparent;
+    font-family: 'MyriadProRegular';
     }
 .navbar-items li:hover{
-    border-bottom: 3px solid #11749e;
+    border-bottom: 5px solid #11749e;
 }
 .navbar-items a {
     text-decoration: none;
@@ -47,13 +48,13 @@ header {
 .navbar-images {
     margin: 0;
     padding: 0;
-    justify-content: space-between;
+    display: flex;
+    padding: 0 100px 0 20px;
 }
 .navbar-images li{
-    float: left;
     list-style: none;
     font-size: 24px;
-    padding: 40px 30px;
+    padding: 40px 0 0 30px;
 }
 .navbar-images a i:hover {
     color: #11749e;
@@ -63,26 +64,31 @@ header {
     color: #ffffff;
 }
 .header-middle {
-    display: block;
     text-align: center;
 }
 .header-middle h1 {
     color: white;
-    font-size: 128px;
+    font-size: 160px;
     font-family: 'Gotham Pro';
+    margin: 0;
 }
 .header-middle a {
     font-size: 24px;
     text-decoration: none;
     color: dodgerblue;
+    font-family: 'Gotham Pro Light';
+    letter-spacing: 24px;
 }
 .scroll-down {
     display: block;
     text-align: center;
+    padding: 0 0 100px 0;
 }
 .scroll-down h5 {
     color: #ffffff;
     font-size: 18px;
+    font-family: 'OpenSansRegular';
+    font-weight: 100;
 }
 
 

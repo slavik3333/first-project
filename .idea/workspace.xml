@@ -4,6 +4,31 @@
     <list default="true" id="2cfd21d6-df48-48bf-aa93-855cc68656a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProBold/MyriadProBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProBold/MyriadProBold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProBold/MyriadProBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProBold/MyriadProBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProBoldItalic/MyriadProBoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProBoldItalic/MyriadProBoldItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProBoldItalic/MyriadProBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProBoldItalic/MyriadProBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProItalic/MyriadProItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProItalic/MyriadProItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProItalic/MyriadProItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProItalic/MyriadProItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProRegular/MyriadProRegular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProRegular/MyriadProRegular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProRegular/MyriadProRegular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProRegular/MyriadProRegular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProSemiBold/MyriadProSemiBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProSemiBold/MyriadProSemiBold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProSemiBold/MyriadProSemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProSemiBold/MyriadProSemiBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/fonts/fonts.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,8 +51,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="561">
-                  <caret line="33" selection-start-line="33" selection-end-line="33" />
+                <state relative-caret-position="426">
+                  <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
                 </state>
               </provider>
             </entry>
@@ -35,12 +60,15 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/css/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="527">
-                  <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+                <state relative-caret-position="493">
+                  <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+                  <folding>
+                    <element signature="e#35#69#0" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -48,8 +76,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/fonts/fonts.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="68">
-                  <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+                <state relative-caret-position="425">
+                  <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
                 </state>
               </provider>
             </entry>
@@ -75,14 +103,16 @@
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/blackshit.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/app/fonts/fonts.css" />
         <option value="$PROJECT_DIR$/app/css/styles.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="88" />
-    <option name="width" value="758" />
-    <option name="height" value="555" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -163,18 +193,19 @@
       <workItem from="1546504810338" duration="2152000" />
       <workItem from="1547124737235" duration="537000" />
       <workItem from="1547125275151" duration="7498000" />
-      <workItem from="1547285798685" duration="12383000" />
+      <workItem from="1547285798685" duration="12677000" />
+      <workItem from="1547637608690" duration="5513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52918000" />
+    <option name="totallyTimeSpent" value="58725000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06716418" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09097421" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -186,12 +217,12 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" auto_hide="true" id="Terminal" order="9" weight="0.25460455" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.2400881" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Tail" order="12" />
-      <window_info anchor="bottom" id="SonarLint" order="13" />
-      <window_info anchor="bottom" id="Missing In Actions" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.2400881" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Tail" order="11" />
+      <window_info anchor="bottom" id="SonarLint" order="12" />
+      <window_info anchor="bottom" id="Missing In Actions" order="13" />
+      <window_info anchor="bottom" auto_hide="true" id="Terminal" order="14" weight="0.5720054" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -213,27 +244,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/css/fonts.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/fonts/fonts.css">
+    <entry file="file://$PROJECT_DIR$/app/css/fonts.css" />
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        <state relative-caret-position="426">
+          <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/../first-project2/app/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="391">
+          <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/fonts/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+        <state relative-caret-position="493">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+          <folding>
+            <element signature="e#35#69#0" />
+          </folding>
         </state>
       </provider>
     </entry>
