@@ -4,7 +4,9 @@ body {
     margin: 0;
     padding: 0;
 }
+
 /* H   E   A   D   E   R    */
+
 header {
     background-image: url("../images/header-background.png");
     background-size: cover;
@@ -96,6 +98,7 @@ header {
 
 
 /* A   B   O   U   T     A   G   E   N   C   Y     */
+
 .about-agency {
     background-color: #11749e;
     background-size: cover;
@@ -121,7 +124,7 @@ header {
     font-size: 38px;
     color: white;
     font-family: "Gotham Pro Light";
-    font-weight: bolder;
+    font-weight: 900;
 }
 .features {
     display: flex;
@@ -136,6 +139,7 @@ header {
     display: flex;
     flex-direction: column;
     text-align: center;
+    align-items: center;
     width: 15%;
     padding: 0 30px;
 }
@@ -143,6 +147,7 @@ header {
     display: flex;
     flex-direction: column;
     text-align: center;
+    align-items: center;
     width: 15%;
     padding: 0 30px;
 }
@@ -150,6 +155,7 @@ header {
     display: flex;
     flex-direction: column;
     text-align: center;
+    align-items: center;
     width: 15%;
     padding: 0 30px;
 }
@@ -157,15 +163,18 @@ header {
     display: flex;
     flex-direction: column;
     text-align: center;
+    align-items: center;
     width: 15%;
     padding: 0 30px;
 
 }
 .features i {
-    background-image: url("../images/Ellipse.png");
+    background-color: #2e85aa;
+    border-radius: 50%;
     background-repeat: no-repeat;
     background-position: center;
     height: 133px;
+    width: 133px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -175,7 +184,7 @@ header {
 .features span {
     font-family: "Gotham Pro";
     font-size: 18px;
-    font-weight: bolder;
+    font-weight: 600;
     padding: 20px;
 }
 .features p {
@@ -185,6 +194,164 @@ header {
     text-align: justify;
     text-align-last: center;
 }
+
+
+
+
+/*    N  E  W  S     A  R  E  A  */
+
+.news-area {
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+.news-one {
+    background-color: #222222;
+    height: 50%;
+    width: 50%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.news-two {
+    background-image: url(../images/news-area1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50%;
+    width: 50%;
+}
+.news-three {
+    background-image: url(../images/news-area2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50%;
+    width: 50%;
+}
+.news-four {
+    background-color: #f3f3f3;
+    height: 50%;
+    width: 50%;
+    color: black;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 4%;
+}
+.newso {
+    width: 50%;
+}
+.newst {
+    width: 60%;
+}
+.news-area span {
+    font-family: "Gotham Pro Light";
+    font-size: 13px;
+    line-height: 20px;
+}
+.news-area section {
+    font-family: "Gotham Pro Medium";
+    font-size: 25px;
+    line-height: 50px;
+}
+.news-area p {
+    font-family: "Gotham Pro Light";
+    font-size: 15px;
+    line-height: 22px;
+}
+
+
+
+/*     B  L  O  G    A  R  E  A   */
+
+.blog-area {
+    background-color: #fff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.lets-blog {
+    background-image: url("../images/B.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lets-blog p {
+    width: 100%;
+    font-size: 38px;
+    font-family: "Gotham Pro Medium";
+}
+.we-love p {
+    font-size: 30px;
+    font-family: "Gotham Pro Light";
+    font-weight: 600;
+    padding: 0 0 30px 0;
+}
+.blog {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.blog1 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    width: 17%;
+}
+.blog2 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    width: 17%;
+}
+.blog3 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    width: 17%;
+}
+.blog4 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    width: 17%;
+}
+.blog img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blog span {
+    font-family: "Gotham Pro";
+    font-size: 18px;
+    padding: 30px 0 0 0;
+    font-weight: 600;
+    color: #11749e;
+}
+.blog p {
+    font-family: "Gotham Pro";
+    font-size: 15px;
+    line-height: 26px;
+    text-align: center;
+    padding: 0 25px 0 25px;
+}
+
 
 
 
