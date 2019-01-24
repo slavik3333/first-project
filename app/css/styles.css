@@ -355,6 +355,31 @@ header {
 
 
 
+/*    Q  U  I  C  K     A  C  T  I  O  N     A  R  E  A        */
+
+.quick-action {
+    background-color: #11749e;
+    height: 40vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: left;
+    justify-content: center;
+    color: #ffffff;
+    text-align-last: justify;
+}
+.quick-action p {
+    width: 24%;
+    font-size: 15px;
+    font-family: "Gotham Pro Light";
+    line-height: 24px;
+    padding: 0 30px 0 0;
+}
+.quick-action i {
+    font-size: 64px;
+    padding: 0 30px;
+}
+
 
 
 
