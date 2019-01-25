@@ -25,8 +25,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="579">
-                  <caret line="130" column="7" lean-forward="true" selection-start-line="130" selection-start-column="7" selection-end-line="130" selection-end-column="7" />
+                <state relative-caret-position="355">
+                  <caret line="144" column="14" lean-forward="true" selection-start-line="144" selection-start-column="14" selection-end-line="144" selection-end-column="14" />
                 </state>
               </provider>
             </entry>
@@ -38,8 +38,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/css/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="488">
-                  <caret line="373" column="36" lean-forward="true" selection-start-line="373" selection-start-column="36" selection-end-line="373" selection-end-column="36" />
+                <state relative-caret-position="219">
+                  <caret line="498" column="45" lean-forward="true" selection-start-line="498" selection-start-column="45" selection-end-line="498" selection-end-column="45" />
                   <folding>
                     <element signature="e#35#69#0" />
                     <element signature="e#108#287#0" />
@@ -60,8 +60,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/../first-project2/app/css/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-1190">
-                  <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="25" />
+                <state relative-caret-position="-614">
+                  <caret line="312" column="18" lean-forward="true" selection-start-line="312" selection-start-column="18" selection-end-line="312" selection-end-column="18" />
                 </state>
               </provider>
             </entry>
@@ -69,8 +69,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/blackshit.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1888">
-                  <caret line="138" column="8" selection-start-line="138" selection-start-column="8" selection-end-line="138" selection-end-column="8" />
+                <state relative-caret-position="443">
+                  <caret line="89" column="80" lean-forward="true" selection-start-line="87" selection-start-column="8" selection-end-line="89" selection-end-column="80" />
                   <folding>
                     <element signature="n#style#0;n#section#0;n#div#0;n#nav#1;n#main#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#section#0;n#div#1;n#nav#1;n#main#0;n#!!top" expanded="true" />
@@ -144,6 +144,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
@@ -187,12 +188,12 @@
       <workItem from="1547124737235" duration="537000" />
       <workItem from="1547125275151" duration="7498000" />
       <workItem from="1547285798685" duration="12677000" />
-      <workItem from="1547637608690" duration="27546000" />
+      <workItem from="1547637608690" duration="36891000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80758000" />
+    <option name="totallyTimeSpent" value="90103000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1456" height="876" extended-state="6" />
@@ -259,17 +260,17 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/css/fonts.css" />
-    <entry file="file://$PROJECT_DIR$/../first-project2/app/css/index.css">
+    <entry file="file://$PROJECT_DIR$/app/fonts/fonts.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1190">
-          <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="25" />
+        <state relative-caret-position="425">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/blackshit.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1888">
-          <caret line="138" column="8" selection-start-line="138" selection-start-column="8" selection-end-line="138" selection-end-column="8" />
+        <state relative-caret-position="443">
+          <caret line="89" column="80" lean-forward="true" selection-start-line="87" selection-start-column="8" selection-end-line="89" selection-end-column="80" />
           <folding>
             <element signature="n#style#0;n#section#0;n#div#0;n#nav#1;n#main#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#0;n#div#1;n#nav#1;n#main#0;n#!!top" expanded="true" />
@@ -279,28 +280,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/fonts/fonts.css">
+    <entry file="file://$PROJECT_DIR$/../first-project2/app/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="579">
-          <caret line="130" column="7" lean-forward="true" selection-start-line="130" selection-start-column="7" selection-end-line="130" selection-end-column="7" />
+        <state relative-caret-position="-614">
+          <caret line="312" column="18" lean-forward="true" selection-start-line="312" selection-start-column="18" selection-end-line="312" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="373" column="36" lean-forward="true" selection-start-line="373" selection-start-column="36" selection-end-line="373" selection-end-column="36" />
+        <state relative-caret-position="219">
+          <caret line="498" column="45" lean-forward="true" selection-start-line="498" selection-start-column="45" selection-end-line="498" selection-end-column="45" />
           <folding>
             <element signature="e#35#69#0" />
             <element signature="e#108#287#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="144" column="14" lean-forward="true" selection-start-line="144" selection-start-column="14" selection-end-line="144" selection-end-column="14" />
         </state>
       </provider>
     </entry>
