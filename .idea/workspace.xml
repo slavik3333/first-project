@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cfd21d6-df48-48bf-aa93-855cc68656a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/blackshit.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/blackshit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -27,8 +25,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-578">
-                  <caret line="131" column="1" selection-start-line="131" selection-start-column="1" selection-end-line="131" selection-end-column="1" />
+                <state relative-caret-position="496">
+                  <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
                   <folding>
                     <element signature="n#style#0;n#iframe#0;n#div#7;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -43,8 +41,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/css/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="593">
-                  <caret line="786" column="23" selection-start-line="786" selection-start-column="23" selection-end-line="786" selection-end-column="23" />
+                <state relative-caret-position="1001">
+                  <caret line="721" column="25" selection-start-line="721" selection-start-column="25" selection-end-line="721" selection-end-column="25" />
                 </state>
               </provider>
             </entry>
@@ -71,7 +69,7 @@
             <entry file="file://$PROJECT_DIR$/app/blackshit.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="807">
-                  <caret line="147" column="49" lean-forward="true" selection-start-line="147" selection-start-column="49" selection-end-line="147" selection-end-column="49" />
+                  <caret line="147" column="49" selection-start-line="147" selection-start-column="49" selection-end-line="147" selection-end-column="49" />
                   <folding>
                     <element signature="n#style#0;n#section#0;n#div#0;n#nav#1;n#main#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#section#0;n#div#1;n#nav#1;n#main#0;n#!!top" expanded="true" />
@@ -79,6 +77,15 @@
                     <element signature="n#style#0;n#section#2;n#div#1;n#nav#1;n#main#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#0;n#nav#7;n#main#0;n#!!top" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/js/main.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
                 </state>
               </provider>
             </entry>
@@ -111,16 +118,17 @@
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/fonts/fonts.css" />
         <option value="$PROJECT_DIR$/app/blackshit.html" />
+        <option value="$PROJECT_DIR$/app/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/app/css/styles.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1272" />
-    <option name="y" value="-8" />
-    <option name="width" value="1456" />
-    <option name="height" value="916" />
+    <option name="x" value="120" />
+    <option name="y" value="-11" />
+    <option name="width" value="1092" />
+    <option name="height" value="724" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -199,15 +207,15 @@
       <workItem from="1547285798685" duration="12677000" />
       <workItem from="1547637608690" duration="37250000" />
       <workItem from="1548869417496" duration="10996000" />
-      <workItem from="1549018547918" duration="16584000" />
+      <workItem from="1549018547918" duration="23348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118042000" />
+    <option name="totallyTimeSpent" value="124806000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.09097421" />
@@ -288,7 +296,7 @@
     <entry file="file://$PROJECT_DIR$/app/blackshit.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="807">
-          <caret line="147" column="49" lean-forward="true" selection-start-line="147" selection-start-column="49" selection-end-line="147" selection-end-column="49" />
+          <caret line="147" column="49" selection-start-line="147" selection-start-column="49" selection-end-line="147" selection-end-column="49" />
           <folding>
             <element signature="n#style#0;n#section#0;n#div#0;n#nav#1;n#main#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#0;n#div#1;n#nav#1;n#main#0;n#!!top" expanded="true" />
@@ -299,10 +307,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-578">
-          <caret line="131" column="1" selection-start-line="131" selection-start-column="1" selection-end-line="131" selection-end-column="1" />
+        <state relative-caret-position="496">
+          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#7;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -311,8 +326,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="786" column="23" selection-start-line="786" selection-start-column="23" selection-end-line="786" selection-end-column="23" />
+        <state relative-caret-position="1001">
+          <caret line="721" column="25" selection-start-line="721" selection-start-column="25" selection-end-line="721" selection-end-column="25" />
         </state>
       </provider>
     </entry>
